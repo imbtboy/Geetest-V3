@@ -5,4 +5,4 @@ This API can be verified with any geetest v3 version, By uploading the two param
 
 contact me: https://t.me/shineho
 
-update: 2023-05-10
+update: 2023-06-10
